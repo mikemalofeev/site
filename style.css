@@ -1,6 +1,11 @@
 body {
     background: greenyellow;
+    width: 920px;
+    margin: 0 auto;
 }
 h1 {
-    font-size: 80px;
+    font-size: 42px;
+}
+p {
+    font-size: 20px;
 }
